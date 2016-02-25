@@ -20,7 +20,7 @@ public class SQL {
     * via dem Befehl DatabaseName("...") wird angegeben auf welche Datenbank zugegriffen wird
     * via dem Befehl setUser("...") wird festgelegt mit welchem User auf diese Datenbank zugegriffen werden soll
     * via dem Befehl setPassword("...") wird angegeben welchs Password der User in der Datenbank verwendet
-    *
+    *a
     */
    
    // Verbindung herstellen
